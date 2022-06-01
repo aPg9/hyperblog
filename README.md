@@ -11,6 +11,7 @@ un blog increible para el curso de git y github de platzi
 * Las personalidades multiples de Freddy
 * Creado por Adrian Posada
 * Incluye ejemplos en windows, linux y mac
+* Disponnible para todas las edades
 
 Y como un recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
 
